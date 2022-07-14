@@ -1,7 +1,7 @@
 * {margin: 0; padding: 0;}
 
 body {
-    height:100vh;
+    min-height: 100vh;
     background-color: #0B1320;
     color: #B1D4E0;
     font-family: 'Roboto', sans-serif;
